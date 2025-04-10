@@ -12,10 +12,10 @@ This implementation supports:
 - Confidence intervals from:
   - Naive (frequentist) method
   - PoSI
-  - Selective inference [(Lee et al., 2016)](https://projecteuclid.org/euclid.aos/1462892507)
+  - Selective inference [(Lee et al., 2016)]([https://projecteuclid.org/euclid.aos/1462892507](https://projecteuclid.org/journals/annals-of-statistics/volume-44/issue-3/Exact-post-selection-inference-with-application-to-the-lasso/10.1214/15-AOS1371.full))
   - HySI
 
-An upcoming update will support data-driven lambda selection. A guide to post-selection inference theory and applications to LASSO will also be published soon.
+*An upcoming update will support data-driven lambda selection. A guide to post-selection inference theory and applications to LASSO will also be published soon.*
 
 ## Installation
 
@@ -144,4 +144,4 @@ If you use this package, please cite:
 McCloskey, A. (2024). *Hybrid Confidence Intervals after Model Selection*. Biometrika.  
 [arXiv:2011.12873](https://arxiv.org/abs/2011.12873)
 
-Best wishes to Adam McCloskey, and many thanks for his kind permission to implement his method for Stata users.
+Best wishes to Adam McCloskey, and many thanks for his kind permission to implement his method in Stata.
