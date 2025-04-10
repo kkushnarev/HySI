@@ -1,0 +1,21 @@
+v 1.0
+d 'HYSI': hysi
+d 
+d Distribution-Date:   20250410
+d License: Academic Free License v3.0
+d 
+F begin_hysi.ado
+F begin_hysi.ado
+F ci_graphs.ado
+F ci_graphs.ado
+F export_results.ado
+F export_results.ado
+F hsci_table.ado
+F hsci_table.ado
+F hysi.ado
+F hysi.ado
+F hysi.mata
+F hysi.mata
+F hysi.sthlp
+F hysi.sthlp
+F make.do
