@@ -1,4 +1,4 @@
-
+mata:
 // HySI Step 1: Compute affine constraints
 void compute_affine_constraints(real matrix X, real scalar lambda, string vector signs, real scalar n,
                                 real matrix A_out, real matrix b_out) {
@@ -389,4 +389,4 @@ real void hysi(string scalar yvar, string scalar selvars, real scalar lambda, re
 
 
 }
-
+end
