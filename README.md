@@ -69,12 +69,12 @@ begin_hysi using filename, vars(varlist) y(depvar)
 begin_hysi using Monte_Carlo.dta, vars(Age Education Parents_Income) y(Income)
 ```
 
-This command creates two temporary files with the suffix "_XS":
+This command creates two temporary files with the suffix `_XS`:
 
   - One file contains the dataset with renamed and destringed variables.
-  - The other is a mapping file that links generic variable names (e.g., x1, x2, ...) to the original variable names.
+  - The other is a mapping file that links generic variable names (e.g., `x1`, `x2`, ...) to the original variable names.
 
-Use the "_XS" dataset for all subsequent commands.
+Use the `_XS` dataset for all subsequent commands.
 
 These temporary files will be automatically deleted after export.
 
