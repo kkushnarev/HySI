@@ -5,7 +5,7 @@
 
 ## Overview
 
-The **hysi** package implements the Hybrid Confidence Intervals (HySI) method in Stata for valid inference after LASSO-based model selection. The HySI method, proposed by McCloskey (2024), combines the PoSI framework with a with a selective intervals approach by Lee et al. (2016) to construct confidence intervals that remain valid regardless of the model selected.
+The **hysi** package implements the Hybrid Confidence Intervals (HySI) method in Stata for valid inference after LASSO-based model selection. The HySI method, proposed by McCloskey (2024), combines the PoSI framework with a selective intervals approach by Lee et al. (2016) to construct confidence intervals that remain valid regardless of the model selected.
 
 This implementation supports:
 - LASSO with a fixed, user-chosen lambda
