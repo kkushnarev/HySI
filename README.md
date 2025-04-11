@@ -1,6 +1,6 @@
 # hysi – Hybrid Selective Inference for LASSO in Stata
 
-**Author**: [Kirill Kushnarev](https://github.com/kkushnarev)  
+**Author**: [Kirill Kushnarev](https://kkushnarev.github.io)  
 **Reference**: [McCloskey (Biometrika, 2024)](https://arxiv.org/abs/2011.12873)
 
 ## Overview
